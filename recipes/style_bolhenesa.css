@@ -17,18 +17,20 @@ img {
 .descrição {
     text-align: center;
     color: black;
-    font-size: x-small;
+    font-size: small;
 }
 
 #saudação {
     text-align: center;
-    font-size: small;
+    font-size: medium;
     font-weight: bold;
 }
 
 .subtitulo {
-    text-align: center;
     background-color: bisque;
-    font-size: xx-large;
+    font-weight: bolder;
 }
 
+li {
+    font-size: larger;
+}
