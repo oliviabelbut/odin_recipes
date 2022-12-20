@@ -17,5 +17,11 @@ img {
 .descrição {
     text-align: center;
     color: black;
+    font-size: x-small;
+}
+
+#saudação {
+    text-align: center;
     font-size: small;
+    font-weight: bold;
 }
