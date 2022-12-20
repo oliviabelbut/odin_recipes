@@ -11,7 +11,7 @@ img {
     text-align: center;
     font-weight: bold;
     color:black;
-    background-color: beige;
+    background-color: bisque;
 }
 
 .descrição {
@@ -25,3 +25,10 @@ img {
     font-size: small;
     font-weight: bold;
 }
+
+.subtitulo {
+    text-align: center;
+    background-color: bisque;
+    font-size: xx-large;
+}
+
