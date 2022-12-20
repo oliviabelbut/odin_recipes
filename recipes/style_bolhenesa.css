@@ -34,3 +34,8 @@ img {
 li {
     font-size: larger;
 }
+
+button {
+    font-size: medium;
+    background-color: whitesmoke;
+}
