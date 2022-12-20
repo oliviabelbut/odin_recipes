@@ -14,3 +14,8 @@ img {
     background-color: beige;
 }
 
+.descrição {
+    text-align: center;
+    color: black;
+    font-size: small;
+}
